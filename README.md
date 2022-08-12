@@ -22,3 +22,11 @@ Update the .env file
 PORT = 5000
 APIKEY = ""
 ```
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start:dev`
+
+Runs the app in the development mode.
