@@ -17,7 +17,7 @@ const config = { } //
 ```
 
 
-Update the .env file 
+Create and update the .env file 
 ```env
 PORT = 5000
 APIKEY = ""
